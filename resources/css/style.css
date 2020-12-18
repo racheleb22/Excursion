@@ -3,6 +3,7 @@ body{
   color: white;
   background-color: black;
   text-align: center;
+  margin: 8px;
 }
 
 .header{
@@ -14,4 +15,29 @@ body{
 .link a{
   color: aquamarine;
   font-size: 16px;
+}
+
+.link{
+  margin: 21px 0;
+}
+
+.travel h1, .closing-message p{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.description p{
+  font-size: 21px;
+  color: grey;
+}
+
+.image p{
+  margin: 21px 0;
+}
+
+.footer{
+  text-align: right;
+  color: grey;
+  font-size: 21px;
+  margin: 21px 0;
 }
